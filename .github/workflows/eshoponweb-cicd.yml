@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: f8e16159-e08f-4ed0-b156-15b79a579191
-  WEBAPP-NAME: app-nerg-master
+  WEBAPP-NAME: app-nerg
 
 
 jobs:
